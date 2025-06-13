@@ -1,0 +1,19 @@
+{
+  "nav": {
+    "homepage": "Homepage",
+    "cart": "Cart",
+    "profile": "Profile",
+    "orders": "Orders",
+    "total": "Total cart sum",
+    "login": "Login",
+    "signup": "Sign up",
+    "logged-in": "Currently logged in",
+    "logout": "Log out"
+  },
+  "admin": {
+    "add-product": "Add product",
+    "manage-products": "Manage products",
+    "manage-categories": "Manage categories",
+    "manage-admins": "Manage admin"
+  }
+}

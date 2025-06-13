@@ -1,0 +1,19 @@
+{
+  "nav": {
+    "homepage": "Avaleht",
+    "cart": "Ostukorv",
+    "profile": "Profiil",
+    "orders": "Tellimused",
+    "total": "Ostukorvi summa",
+    "login": "Logi sisse",
+    "signup": "Registreeru",
+    "logged-in": "Sisselogitud kasutaja",
+    "logout": "Logi välja"
+  },
+  "admin": {
+    "add-product": "Lisa toode",
+    "manage-products": "Halda tooteid",
+    "manage-categories": "Halda kategooriaid",
+    "manage-admins": "Halda admine"
+  }     
+}
